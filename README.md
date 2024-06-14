@@ -21,7 +21,8 @@ Development features include:
 - implementing a parser to get the map from a file and define characters for different components (walls, enemies, space etc)
 - Drawing the map and including the player’s line of sight in it.
 
-  ![Game screenshot](https://github.com/opegol/maze-project/blob/main/pics/mazeImg.jpg?raw=true)
+  ![mazeImg](https://github.com/opegol/maze-project/assets/139570017/f306da71-29e0-4d8d-910c-1939fd31a774)
+
 
 
 ## Installation
